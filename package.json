@@ -1,5 +1,5 @@
 {
-  "name": "angular-gettext-tools",
+  "name": "sklik-angular-gettext-tools",
   "description": "Tools for extracting/compiling angular-gettext strings.",
   "version": "2.2.3",
   "homepage": "http://angular-gettext.rocketeer.be/",
